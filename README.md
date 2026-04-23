@@ -43,7 +43,7 @@ Gym-Management-Dashboard/
 ├── dashboard.php
 ├── index.php
 ├── gym_db.sql
-├── Gym_System_README.md
+├── README.md
 
 ```
 
