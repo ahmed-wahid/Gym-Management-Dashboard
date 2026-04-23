@@ -255,7 +255,7 @@ or open the main entry file used by the project.
 | Page | Screenshot |
 |------|------------|
 | Dashboard | ![Dashboard](images/Dashboard.png) |
-| Branches | ![Branches](images/Branches.png) |
+| Branches | ![Branches](images/Branchs.png) |
 | Members | ![Members](images/Members.png) |
 | Memberships | ![Memberships](images/Memberships.png) |
 | Products | ![Products](images/Products.png) |
